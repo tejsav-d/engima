@@ -1,4 +1,4 @@
-# ng-training-assignment-1
+# ng-training-assignment
 
 
 ### 1. Project Overview
