@@ -2,7 +2,7 @@
 
 
 ### 1. Project Overview
-   - Project Name: ng-training-assignment-1
+   - Project Name: ng-training-assignment-
    - Description: A simple task management application built with Angular. Users can create, view, and delete tasks.
    - Features:
      - Task creation
@@ -16,15 +16,7 @@
      - Angular CLI installed globally
    - Steps to Install:
      ```bash
-     # Clone the repository 
-     git clone https://gitlab.com/enzigma-assignment-1/ng-training-assignment-1.git
      
-     # Navigate to the project directory
-     cd ng-training-assignment-1/client-side
-
-     # Install dependencies
-     npm install
-     ```
 
 ### 3. Running the Application
    - Development Server:
